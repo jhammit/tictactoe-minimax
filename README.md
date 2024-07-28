@@ -16,6 +16,10 @@ Functions
 - minimax(board, depth, is_maximizing, alpha, beta): Implements the Minimax algorithm with alpha-beta pruning.
 - best_move(board): Determines the best move for the 'X' player.
 
+Resources
+Minimax Algorithm in Game Theory | Set 4 (Alpha-Beta Pruning): https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-4-alpha-beta-pruning/
+- Shared valuable pseudocode, aiding in the creation of the minimax algorithm in this Tic-Tac-Toe game.
+
 Contribution
 Contributions to this project are welcome. You can contribute by:
 
